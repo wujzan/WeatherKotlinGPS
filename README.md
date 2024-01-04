@@ -1,6 +1,6 @@
 # 天氣APP (具GPS定位)
 
-Demo設計介紹文件: [.pdf](https://github.com/wujzan/WeatherKotlinGPS/blob/master/Demo%E8%A8%AD%E8%A8%88%E4%BB%8B%E7%B4%B9%E6%96%87%E4%BB%B6.pdf)
+Demo設計介紹文件: [.pptx](https://github.com/wujzan/WeatherKotlinGPS/raw/master/Demo%E8%A8%AD%E8%A8%88%E4%BB%8B%E7%B4%B9%E6%96%87%E4%BB%B6.pptx)
 
 ---
 使用OpenWeatherMap API:
